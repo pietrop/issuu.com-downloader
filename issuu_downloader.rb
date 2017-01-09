@@ -1,4 +1,4 @@
-
+#!/usr/bin/ruby
 require 'mechanize'
 require 'prawn'
 =begin
